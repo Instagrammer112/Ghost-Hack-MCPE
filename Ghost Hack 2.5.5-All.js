@@ -22,7 +22,7 @@ var menu;
 var exitUI;
 
 var VERSION = "2.5.5";
-var NAME = "Ghost Hack";
+var NAME = "HackMCPE";
 var DEVELOPERS = "KillerBLS and ZmeY2100";
 
 var MARK = "©";
